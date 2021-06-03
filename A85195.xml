@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loving salutation to the seed of Abraham among the Jewes: where ever they are scattered up and down upon the face of the earth. And to the seed of Abraham among all people upon the face of the earth; which are all out of the way ... And the way of truth opened to them, which is the way of holinesse ... where the uncleane cannot passe, bnt [sic] is for the ransomed and redeemed to returne to Zion ... Thus saith the Lord thy redeemer ... By M.F.</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85195</idno><idno type="EEBO-CITATION">99872445</idno>
+  <idno type="VID">168497</idno>
+  <idno type="EEBO-PROQUEST">2264186292</idno>
+  
+            <idno type="STC">Wing F634</idno>
+            <idno type="STC">Thomason E927_3</idno>
+            <idno type="STC">ESTC R36431</idno>
+            <idno type="PROQUEST">99872445</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872445e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 139:E927[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loving salutation to the seed of Abraham among the Jewes: where ever they are scattered up and down upon the face of the earth. And to the seed of Abraham among all people upon the face of the earth; which are all out of the way ... And the way of truth opened to them, which is the way of holinesse ... where the uncleane cannot passe, bnt [sic] is for the ransomed and redeemed to returne to Zion ... Thus saith the Lord thy redeemer ... By M.F.</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>[2], 37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Simmons at the signe of the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M.F. = Margaret Askew Fell Fox.</note>
+                  <note>Annotation on Thomason copy: "octob: 30"; second 6 in imprint date written over with "7".</note>
+                  <note>Reproductions of the originals Harvard University Library (Early English books) and in the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term type="topical_term">Conversion --  Early works to 1800.</term>
+               <term type="topical_term">Jews --  Conversion to Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168497:1"/>
+            <p>A LOVING SALUTATION</p>
+            <p>To The seed of <hi>Abraham</hi> among the <hi>Jewes:</hi> where ever they are scattered up and down upon the face of the earth. And to the seed of <hi>Abraham</hi> among all people upon the face of the earth; which are all out of the way: wandering up and downe from Mountaine to hill, seeking rest and finding none.</p>
+            <p>And The way of truth opened to them, which is the way of holinesse which all that comes to be made alive unto God must walke in, where the uncleane cannot passe, but is for the ransomed and redeemed to returne to <hi>Zion.</hi>
+            </p>
+            <p>Thus</p>
+            <q>
+               <hi>Saith the Lord thy Redeemer, the holy one of</hi> Israel, <hi>I am the Lord thy God which teacheth thee to profit, which leadeth the by the way that thou shouldest goe,</hi>
+               <bibl>Isa. <hi>48.17.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>As many were astonished at thee, his visage was so marred more then any man, and his forme more than the Sons of men; so shall he sprinkle many Nations. The Kings shall shut their mouths at him: for that which had not been told them shall they see, &amp; that which they had not heard shall they consider,</hi>
+               <bibl>Isa. <hi>52.14.15.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>In the last dayes it shall come to passe, that the Mountaine of the Lords house shall be established in the top of the Mountaines, and it shall be exalted above the hills, and people shall flow unto it: And many Nations shall say, Come, let us go up to the Mountain of the Lords, and to the house of the God of</hi> Jacob▪ <hi>and he will teach us of his wayes, and we will walke in his pathes; for the Law shall goe forth of</hi> Z<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, <hi>and the word of the Lord from</hi> Jerusalem.
+<bibl>Mal. <hi>4. and</hi> Isa. <hi>2.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>M. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Simmons</hi> at the signe of the Bull and Mouth near Aldersgate, 165<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168497:2"/>
+            <pb n="1" facs="tcp:168497:2"/>
+            <head>A <hi>Loving Salutation, To the seed of Abraham among the Jewes; where ever they are scat<g ref="char:EOLhyphen"/>tered up and down upon the face of the Earth. And to the seed of Abraham among all people upon the face of the Earth; which are all out of the way: wandering up and down from Mountaine to hill, seeking rest but finding none.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>AVID</hi> saith, <hi>The foole hath said in his heart, there is no God;</hi> They are corrupt, they have done abominable works, there is none that doth good; and the Lord looked down from Hea<g ref="char:EOLhyphen"/>ven upon the Children of men, to see if there were any that did understand,
+<note place="margin">
+                  <hi>Psal.</hi> 14. and 53.</note> and seek God; and they were all g ne aside, they are altogether become fil<g ref="char:EOLhyphen"/>thy, there is none that doth good, no not one. Here you may see and read your selves where you are, who are out of the way of peace, and the way of truth, and the life.</p>
+            <p>Now this is unto you all, who are out of the light, from the seed which hath obtained the promise, that ye may come to partake of the same, and be brought to the fold where there is one Shepheard, and one sheepfold, where the promise of the Lord is fulfilled, who hath said; It is a light thing that thou mightest be my servant to raise up the tribes of <hi>Jacob,</hi> and to restore the preserved of <hi>Israel,</hi> I will also give thee for a light to the <hi>Gentiles,</hi> that thou mayest be my salvation unto the ends of the Earth. Thus saith the Lord the Redeemer of <hi>Israel,</hi> and his holy one, to him whom man despiseth, to him whom the Nation abhorreth, to a servant of rulers: Kings shall see and
+<pb n="2" facs="tcp:168497:3"/>arise, Princes also shall worship, because the Lord is faithfull, and the holy one of <hi>Israel.</hi> In an acceptable time have I heard thee, and in a day of salvation have I helped thee, and I will preserve thee,
+<note place="margin">
+                  <hi>Isa.</hi> 39.</note> and give thee for a Covenant of the people, to establish the earth, to cause to inherit the desolate heritages, that thou mayest say to the prisoner, goe forth, and to them that are in darknesse, shew your selves, they shall feed in the wayes, and their pastures shall be in the high places: So here is your mercy offered freely unto you, and the good will of him that dwelt in the bush, and there is no God besides him, neither shall ye find salvation in any other; By the hand of the mighty God is <hi>Iacob</hi> and <hi>Ioseph</hi> made strong, from thence is the Shepheard, the stone of <hi>Israel,</hi> and the precious things springs from him, who is <hi>Davids</hi> root. Therefore come, Oye house of <hi>Iacob,</hi> and let us walke in the light of the Lord. This is the day of your visitation, Therefore seeke the Lord while he may be found, call upon him, while he is neare; let the wicked forsake his way, and the unrighteous man his thoughts, and sleight not the mercies of the Lord, and his gracious visi<g ref="char:EOLhyphen"/>tation unto you; for he hath brought salvation neare, and his Covenant is he performing with you; If you doe turne to that measure of light which you have received from him, who is the light of <hi>Israel;</hi> The Covenant of the Lord is given for a light to open blind eyes, which brings salvation to the ends of the earth; which light lets you see the thoughts of your hearts, that they are vaine, which light lets you see when you doe a<g ref="char:EOLhyphen"/>misse, when you beare false witnesse, when you tell a lye, when ye doe wrong to any man: which light will lead you unto Justice and equity, which light will teach you to fulfill the law of <hi>Moses,</hi> and to doe to all men as ye would they should doe to you, which light will lead you unto righteousnesse, by which ye may fulfill, and answer to the righteousnesse of the Law, and statutes, and commandements of God, which ye can never doe, your mindes being from the light.</p>
+            <p>Therefore in the feare of the Lord God, turne your minds to within, where the light shines in the heart, where the Lord teacheth all his people; who are taught of him, are taught by the light; and guided by the light, for God is the light of his
+<pb n="3" facs="tcp:168497:3"/>
+               <hi>Israel;</hi> All the Children of the Lord are taught of the Lord, and they are established in righteousnesse, and they are farre from oppression, and great is their peace, and the Lords chil<g ref="char:EOLhyphen"/>dren are taught by the light.</p>
+            <p>And so as ye desire to be the children of the Lord, and taught of the Lord. Turne your mindes to the light that shewes you sin and evill, and checks you when you doe transgresse. This will guide your mindes to God, and bring you out of the trans<g ref="char:EOLhyphen"/>gression, and out of the sin, into the new Covenant, which the Lord doth make with his people, which is not according to the old Covenant, which Covenant you broke, but this is an ever<g ref="char:EOLhyphen"/>lasting Covenant, which never can be broken, to those who lives in it, and walkes in it, and obeyes the leading and guiding of the light, which is the Covenant.</p>
+            <p>This answers and fulfills the righteousnesse of the Law of God, and brings you through, to fulfill the whole Law, and Co<g ref="char:EOLhyphen"/>venant of God, which you could never doe, your minds being from the light, which light is the substance of the Covenant of the Law, of the commandements, of the statutes and judge<g ref="char:EOLhyphen"/>ments; which light answers, and fulfills the righteousnesse of them all, and takes them away outwardly: and those who dwells in the light, and stands in it, dwells in the substance, out of the shadow, forme, and likenesse; So here is your way, in the light, which ye feele and see in you, not a thing without you, but in that which is in you, which you know of, which you can beare testimony of, this is a substance and not a shadow: and by no other way nor means under Heaven, shall you ever come to know the salvation of <hi>Israel;</hi> but as your minds are turned, and joyned to the light which is in you, which brings salvation to the ends of the earth. And the prophecy is fulfilling, which cryeth. Ho, every one that thirsteth, come ye to the waters freely, without money; buy wine and milk: hearken diligent<g ref="char:EOLhyphen"/>ly, and eat ye that which is good, and let your souls delight it selfe in fatnesse; Incline your eare, and come unto me, hear, and your souls shall live: and I will make an everlasting Co<g ref="char:EOLhyphen"/>venant with you even the sure mercies of <hi>David.</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 55.</note> Behold I have given him for a witnesse to the people, a leader and com<g ref="char:EOLhyphen"/>mander to the people.</p>
+            <pb n="4" facs="tcp:168497:4"/>
+            <p>And this is he which all Nations must follow, who is given a witnesse, and a leader, and a Commander to all the people of God, who is the desire of all Nations, which is come a witnesse to all people, and a leader of all unto God: who are like sheep gone astray, who hath turned, every one to his own way. But now is the Lord gathering them that will be gathered, all that doe turne unto this witnesse of God in them, the Lord will heale them. Behold I will bring health, and cure, and I will cure them, and will reveale unto them the abundance of peace and truth: and I will cause the Captivity of <hi>Judah,</hi> and the Captivity of <hi>Israel</hi> to returne, and will build them as at first, and I will cleanse them from all their iniquities, whereby they have sinned against mee: and I will pardon all their ini<g ref="char:EOLhyphen"/>quities whereby they have sinned against me; and whereby they have transgressed. So if ye will be cleansed from your iniquity, turne to the light within you, which makes manifest the deceit of your hearts, if ye will have health and cure, turn to the light that lets you see your sin, and transgression, and your iniquity which seperates you from God; And if ye de<g ref="char:EOLhyphen"/>sire your iniquity pardoned, and if ye desire to returne from your captivity, and to be built as ye were at first, turne to the light that seperates from iniquity, and depart from evill, and hearken there in the pure light in your consciences diligently, and there you will hear as you abide in the light, and dwell in it, and walke in it; so you will come to heare the voice of joy, and the voice of gladnesse, the voice of the bridegroom, and the voice of the bride,
+<note place="margin">
+                  <hi>Jer.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> the voice of them that shall say, praise the Lord of Hosts, for the Lord is good, for his mercy endu<g ref="char:EOLhyphen"/>reth for ever: for I will cause their Captivity to returne as at first, saith the Lord.</p>
+            <p>So here is the Lords love freely tendered to you, if ye come into the light, by which the Lord God teacheth his people; that in the pure obedience of the leading and teaching, and guiding of the light turne your mindes to within, into the light, which convinceth of sin and evill: here you will come to have your hearts circumcised, and the foreskin of your heart taken away: here ye will come to have your hearts rent, and not your garments, here ye will turne to the Lord, and receive his
+<pb n="5" facs="tcp:168497:4"/>Covenant and promise, who hath said, I will make an everlast<g ref="char:EOLhyphen"/>ing Covenant with you, that I will not turne away from them, to doe them good: but I will put my feare in their hearts, that they shall not depart from me: yea I will rejoyce over them to doe them good, and I will plant them in this land assuredly, with my whole heart, and with my whole soule. See here the faithfulnesse of the Lord, and his loving kindnesse holden forth unto you: in giving to you his light and testimony, whereby you may be guided up unto him, which makes manifest his will and likewise shews unto you that which is contrary to his will in turning of your minds to the light you will come to know the one teacher, by which the Lord teaches his people <hi>Jew</hi> and <hi>Gentile, Barbarian, Scythian,</hi> bond and free.</p>
+            <p>By this eternall light of the Lord doth the Lord gather all his people into one; and fulfills his promise, who saith. Be<g ref="char:EOLhyphen"/>hold, I will gather them out of all Countries, whither I have driven them in my anger, and in my fury, and in my wrath, and I will bring them againe into this place, and I will cause them to dwell safely, and they shall be my people, and I will be their God, and I will give them one heart, and one way, that they may feare me for ever. See here the infinite goodnesse of God, who hath manifested his one way, and there is no other to the father, his eternall light, which makes manifest and discovers all sin and uncleanesse, and leads up into purity and righteous<g ref="char:EOLhyphen"/>nesse, which purifies the heart, and places the pure feare, and brings into the one heart, and into the one way, where the feare of the Lord is for ever, and the truth in the inward parts, which only is accepted with the Lord. Behold the dayes come saith the Lord, that I will performe that good thing which I have promised to the house of <hi>Israel,</hi> and to the house of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> In those dayes, and at that time, will I cause the branch of righteousnesse to grow unto <hi>David,</hi> and he shall execute judgement and righteousnesse in the land: In those dayes shall <hi>Judah</hi> be saved, and <hi>Jerusalem</hi> shall dwell safely, and this is his name wherewith he shall be called, the Lord our righteous<g ref="char:EOLhyphen"/>nesse. <hi>David</hi> shall never want a man to sit upon the throne of <hi>Israel.</hi> So to the light of the God of <hi>Israel</hi> turne your minds, and here ye will see him performe the good thing that he hath
+<pb n="6" facs="tcp:168497:5"/>promised: And this pure light of God will lead you into righ<g ref="char:EOLhyphen"/>teousnesse, and will bring forth the branch of righteousnesse, where you may dwell safely, where ye may have the Lord for your teacher, and leader, and guider: Thus saith the Lord God, the Holy one of <hi>Israel,</hi> in returning and rest shall ye be saved, and in quietnesse, and in confidence shall be your strength. Therefore doth the Lord waite, that he may be graci<g ref="char:EOLhyphen"/>ous unto you, therefore will he be exalted that he may have mercy upon you, for the Lord is a God of judgment, blessed are all they that wait for him: he will be very gracious unto thee, at the voice of thy cry, when he shall heare it; he will answer thee: and though the Lord give you the bread of ad<g ref="char:EOLhyphen"/>versity, and the water of affliction; yet shall not thy teacher be removed into a corner any more, but thine eyes shall see thy teacher, and thy eares shall heare a voice behind thee, saying, this is the way walke in it; when ye turne to the right hand, or to the left. So this is the word which thou must hear, which teacher will never more be removed into a corner, which shews thee when thou turnes to the right hand or to the left, which shewes thee the intents of thy heart, and is a discerner of thy secret thoughts: by this eternall light doth the Lord God teach his people, which reveals all secrets, which rips up, and layes open the hidden things of <hi>Esau:</hi> And so waiting here in the light, the minde being subjected to the leading and guiding of the light, then the power of the Lord will be manifested, which brings the seed out of bondage, out of the house of darknesse: so the seed being raised by the power of the Lord God out of Aegypt and darknesse, the first borne will come to be slaine, when the Lord calls his Sonne out of Aegypt, <hi>Israel</hi> his first borne, and then the law will be given, and written in the heart, and the Covenant of the Lord will be performed, with his own seed, as he calls <hi>Israel</hi> out of the house of bon<g ref="char:EOLhyphen"/>dage; the darknesse of Aegypt: where the dead bodies lyes in the street of the great City, <hi>Sodom</hi> and <hi>Egypt,</hi> which is all the world spiritually: but the free Covenant of everlasting love and life is set open, and the voice cryes freely. Ho, every one that thirsteth come to the water of life, and he that hath no mo<g ref="char:EOLhyphen"/>ney, come, and buy wine and milke, you that have sold your
+<pb n="7" facs="tcp:168497:5"/>selves for naught; shall be redeemed without money: If you turne your minds to the light within you, which is freely given you of the Lord, which shews you sin and evill, by which the Lord teaches his people, <hi>Jewes</hi> and <hi>Gentiles.</hi>
+            </p>
+            <p>This is the promise of the father, the light, which is his Co<g ref="char:EOLhyphen"/>venant, Behold my servant which I uphold,
+<note place="margin">
+                  <hi>Isa.</hi> 42.</note> mine Elect in whom my soule delighteth, I have put my spirit upon him, he shall bring forth judgement to the <hi>Gentiles:</hi> I the Lord have called thee in righteousnesse, I will hold thine hand, and will keep thee, and give thee for a Covenant of the people, for a light to the Gentiles. Marke, here is the Covenant, and here is the light, and this is for the opening of the blind eyes, to bring forth the prisoner from the prison, and them that sit in darknesse out of the prison house. There is the prison, in dark<g ref="char:EOLhyphen"/>nesse: there is the <hi>Aegypt</hi> and the bondage, in the darknesse, who are not in the light. But whose minds are turned into the light, there will be a rising out of the darknesse; and here the blind eyes will be opened, and deafe eares will heare, and the prisoner will come forth of the prison, and here the promise of the Lord will be fulfilled.
+<note place="margin">
+                  <hi>Zach.</hi> 9.11.</note> As for thee also by the blood of thy Covenant, I have sent forth the prisoners out of the pit where<g ref="char:EOLhyphen"/>in there is no water.</p>
+            <p>Turne ye to the strong hold ye prisoners of hope, I am the Lord, that is my name, my glory will I not give to another, neither my praise to graven Images: Behold the former things are come to passe, and new things doe I declare, before they spring forth I tell you of them: sing unto the Lord a new long, and his praise to the ends of the earth, ye that goe down to the Sea, and all that is therein, the Isles, and the Inhabitants thereof, let the Wildernesse, and the Cities thereof lift up their voices, let the Inhabitants of the rocks sing; let them shout from the top of the mountains, let them give glory to the Lord, and declare his praise in the Islands, for whose minds are turned into the light, and free Covenant of the living God, there to abide, and dwell, and live, shall have cause to praise the Lord for ever, and shall receive his everlasting free promise unto them for ever, which is freely tendered unto all, and all have received a light from him, that shewes the secrets of their
+<pb n="8" facs="tcp:168497:6"/>hearts, and testifies against sin and evill, and that mind that is led and guided by this pure light, will be guided up unto God, and will receive his everlasting promise, which is as sure as the Covenant is with the day and with the night; Thus saith the L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, If you can breake my Covenant with the day, and with the night, that there should not be day and night in their season, then may also my Covenant be broken with <hi>Da<g ref="char:EOLhyphen"/>vid</hi> my servant, that he should not have a son to reigne upon his Throne, for the Mountaines shall depart, and the hills be removed, but my kindnesse shall not depart from thee, neither shall the Covenant of my peace be removed, saith the Lord, that hath mercy on thee. O thou afflicted and tossed with tem<g ref="char:EOLhyphen"/>pest, and not comforted, Behold I will lay thy stones with fair colours, and thy foundation with Saphires, and I will make thy windowes of Agates, and thy gates of carbuncles, and all thy borders of pleasant stones. So if you will lay your foundation with Saphires, come into the light wherein dwells purity, if ye will lay your stones with faire colours, come into the light which teacheth righteousnesse, uprightnesse, and purity: and if you will have all the borders of pleasant stones, come into the light, dwell in the light, live in the light, by which the Lord God doth teach his people: here is the border of the sanctua<g ref="char:EOLhyphen"/>ry, God is light, and in him is no darknesse at all: and the Lord hath said, all thy children shall be taught of the Lord, and great shall be the peace of thy children;
+<note place="margin">
+                  <hi>Isa.</hi> 54.</note> In righteousnesse shalt thou be established, thou shalt be far from oppression: no weapon formed against thee shall prosper, and every tongue that riseth up against thee in judgement thou shalt con<g ref="char:EOLhyphen"/>demne.</p>
+            <p>This is the heritage of the servants of the Lord, and their righteousnesse is of me saith the Lord; So if ye desire this in<g ref="char:EOLhyphen"/>heritance, turn your mindes into the light which is of God, where righteousnesse dwells, which teaches righteousnesse, which leads into righteousnesse, and establishes in righteous<g ref="char:EOLhyphen"/>nesse, which light is of God, which God hath given, which light shines in the conscience, which light keeps the conscience tender; which light was, before man was, which is of God, and comes from God; and as it is minded, and dwelt in, the
+<pb n="9" facs="tcp:168497:6"/>feare of the Lord is placed, which is to depart from evill, which feare of the Lord is the beginning of pure wisdome,
+<note place="margin">
+                  <hi>Mal.</hi> 4.</note> and unto those that feare my name, saith the Lord, shall the Son of righteousnesse arise with healing in his wings, and ye shall goe forth, and grow up, as Calves of the stall; and the secrets of the Lord are with those that feare him: And <hi>Solomon</hi> saith, The feare of the Lord is a fountaine of life. So as ye mind the light, that shines in your consciences, the feare of the Lord will be kept, and so ye will be kept low, and tender, and humble. What man is he that feareth the Lord,
+<note place="margin">
+                  <hi>Psal.</hi> 25.</note> him shall he teach in the way that he shall chuse; The secrets of the Lord are with them that feare him, and he will shew them his Covenant: The meek shall he guide in judgement, and the meek will he teach his way; all the paths of the Lord are mercy and truth unto such as keep his Covenant and testimony.</p>
+            <p>Here is the path of the Lord in the mercy, and in the truth, and in keeping his Covenant, and his testimony, and his feare, and this is in the inward parts, who dwells and abides here, will have the new heart given, which the Lord hath promised; a new heart also will I give you,
+<note place="margin">
+                  <hi>Ezek.</hi> 36.26.</note> and a new spirit will I put within you, and I will take away the stony heart out of your flesh, and I will give you a heart of flesh, and I will put my Spirit within you, and cause you to walke in my statutes, and ye shall keep my judgements and doe them. And againe,
+<note place="margin">
+                  <hi>Ezek.</hi> 11.</note> I will give them one heart, and I will put a new Spirit within you, and take the stony heart out of their flesh and I will give them a heart of flesh, that they may walke in my statutes, and keep my Ordinances, and doe them, and they shall be my people, and I will be their God.</p>
+            <p>So here now you may see, the Lords work is in the inward parts, there doth he look for the truth within, and there doth he make his Covenant, and write his law in this his day, for the dayes are past and gone; wherein the Covenant was written in Tables of stone; and the dayes are come, which the Lord promised, who said, Behold the dayes come saith the Lord, that I will make a new Covenant with the house of <hi>Israel,</hi> and <hi>Judah,</hi> not according to the Covenant which I made with their fathers, in the day that I took them by the hand to bring
+<pb n="10" facs="tcp:168497:7"/>them out of the land of <hi>Aegypt,</hi> which my Covenant they broke, but this shall be the Covenant that I will make with the house of <hi>Israel,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 3.</note> after those dayes, saith the Lord, I will put my Law in their inward parts, and write it in their hearts, and will be their God, and they shall be my people, and they shall teach no more every man his neighbour, and every man his brother, saying, know the Lord, for they shall all know me from the least to the greatest, saith the Lord, for I will forgive their iniquities, and will remember their sin no more.</p>
+            <p>So this is the Covenant, which the Lord is making in these his dayes, with the house of <hi>Israel,</hi> and with the house of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> and with all that doe flow to the Mountaine of the Lords house, which is established in the top of the Mountaines, where all Nations shall flow unto it, for out of <hi>Zion</hi> goes forth the Law, and the word of the Lord from <hi>Jerusalem,</hi> which he writeth in the heart, and putteth in the inward parts: so here must ye look for your law, and for your testimony, which hath been bound and sealed up among the Disciples, which <hi>Isaiah</hi> saw, who said, I will waite upon the Lord, that hideth his face from the house of <hi>Jacob,</hi> and I will look for him; <hi>Isaiah</hi> knew that he would hide his face, and that the Law and Testimony should be bound and sealed, yet he did looke for him, who is now come in these his dayes, whose law and Testimony is ma<g ref="char:EOLhyphen"/>nifested and written in the inward parts;
+<note place="margin">
+                  <hi>Joel</hi> 2.</note> and the dayes are come which <hi>Joel</hi> prophecyed, who said it shall come to passe afterward, I will pour out of my spirit upon all flesh, your sons and your daughters shall prophecy, and also upon the servants and on the handmaids in those dayes will I poure out of my Spirit, for behold in the dayes, and at that time, when I shall bring againe the Captivity of <hi>Judah</hi> and <hi>Jerusalem,</hi> I will al<g ref="char:EOLhyphen"/>so gather all Nations,
+<note place="margin">
+                  <hi>Joel</hi> 3.</note> and will bring them downe into the valley of <hi>Jehosophat,</hi> and will plead with them there. And a<g ref="char:EOLhyphen"/>gaine, feare not, I am with thee, I will bring thy seed from the East, and gather thee from the West, and I will say to the North give up and to the South keep not back, bring my sons from farre, and my daughters from the ends of the Earth; bring forth the blind people that have eyes, and the deafe that have eares, let all Nations be gathered together, and let the
+<pb n="11" facs="tcp:168497:7"/>people be assembled, for I will poure water on him that is thirsty, and floods upon the dry ground, I will poure my spi<g ref="char:EOLhyphen"/>rit upon thy seed, and my blessing upon thine off spring.
+<note place="margin">
+                  <hi>Isa.</hi> 43.</note>
+            </p>
+            <p>Here you may read the large love and mercy of the Lord to all that will turne to the measure of his Spirit, which is light, which he hath given to every one. If you looke for the pro<g ref="char:EOLhyphen"/>mise of the Lord to be fulfilled, you must look for the Spirit, for the promise of God is the Spirit; untill the Spirit be pou<g ref="char:EOLhyphen"/>red upon us from on high,
+<note place="margin">
+                  <hi>Isa.</hi> 32.</note> and the Wildernesse be a fruitfull field, and the fruitfull field be counted for a Forrest: Mark, here your fruitfull field must be counted for a Forrest, when the Spirit is poured from on high, and that which hath been the Wildernesse must be the fruitfull field, then shall judgement dwell in the Wildernesse, and righteousnesse remaine in that fruitfull field, the worke of righteousnesse shall be peace, and the effect of righteousnesse, quietnesse and assurance for ever, and my people shall dwell in a peacable habitation, and in sure dwellings, and in quiet resting places.</p>
+            <p>See now if ye can come to this, and own this Spirit to teach you, and guide you, and lead you, this promise you will re<g ref="char:EOLhyphen"/>ceive and enjoy, when the Lord speaks comfortably unto <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> and bids the Prophet cry that her warfare is accompli<g ref="char:EOLhyphen"/>shed, he saith, The voice of him that cryeth in the Wildernesse, prepare ye the way of the Lord, and make straight in the desert a high way for our God, now God is a Spirit, and his promise is the Spirit: The Lord came down in a cloud, and spake unto him, and tooke off the Spirit that was upon him,
+<note place="margin">
+                  <hi>Numb.</hi> 11.</note> and gave it unto the seventy elders, and it came to passe that when the Spirit rested upon them that they prophesied, and did not cease: Turne ye at my reproofe, behold, I will poure out my Spirit upon you, and I will make known my words unto you,
+<note place="margin">
+                  <hi>Porv.</hi> 1.</note> The Lord hath said, the parched ground shall become a poole, the thirsty land springs of Water, and an high way shall be there; and a way that shall be called the way of holinesse, the uncleane shall not passe over it, but it shall be for those, the wayfairing men, though fooles, shall not erre therein; No Lion shall be there, nor any ravenous beast goe thereon, which shall not be found there, but the redeemed shall walke there;
+<pb n="12" facs="tcp:168497:8"/>and the ransomed of the Lord shall returne, and come to <hi>Zion</hi> with songs, and everlasting joy shall be upon their heads, and they shall obtaine joy and gladnesse, and sorrow, and sigh<g ref="char:EOLhyphen"/>ing shall fly away.</p>
+            <p>So here is your way which you must passe, even in the puri<g ref="char:EOLhyphen"/>ty of the Spirit, which is the way of holinesse, where the un<g ref="char:EOLhyphen"/>cleane cannot passe, and when ye are come into this way, and passing on in this way, then ye may look for your outward pri<g ref="char:EOLhyphen"/>viledges, for he to whom the promise is, the Spirit of the Lord shall rest upon him, and the Spirit of wisdome and understand<g ref="char:EOLhyphen"/>ing; the Spirit of councell and of might, the Spirit of know<g ref="char:EOLhyphen"/>ledge and of the feare of the Lord, and with righteousnesse doth he judge, and reproves with equity; and he is set for an ensigne for the Nations, and shall assemble the outcasts of <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> and gather together the dispersed of <hi>Judah,</hi> from the four corners of the earth, then shall the Lord utterly destroy the tongue of the Aegyptian Sea, and all the power of dark<g ref="char:EOLhyphen"/>nesse, and with his mighty winde, which is the Spirit, shall he shake his hand over the River, and shall smite it in the seven streames thereof, which is the power of <hi>Aegypts</hi> darknesse, and so make men goe over dry shod, in the Spirit: there is the high way for the remnant of his people, who heares the voice which doth cry, unto every one that thirsteth, which saith en<g ref="char:EOLhyphen"/>cline your eare and come unto me, heare and your soul: shall live, and I will make an everlasting Covenant with you, even the sure mercies of <hi>David:</hi> Behold I have given him for a witnesse, unto the people, a leader and Commander to the people, this leader, and this witnesse is in the Spirit: seek ye the Lord while he may be found, call upon him, while he is near. Behold thou shalt call a Nation that thou knowest not, and Nations that know not thee shall run unto thee, because of the Lord thy God, and the holy one of <hi>Israel,</hi> for he hath glorified thee, this promise is unto <hi>David,</hi> and unto his seed for ever, in the Spirit: for of the increase of his government and peace,
+<note place="margin">
+                  <hi>Isa.</hi> 9.</note> there shall be no end, upon the Throne of <hi>David,</hi> and upon his Kingdome to order it, and to establish it with judgement, and with justice from henceforth even for ever.</p>
+            <p>The Lord sent a word unto <hi>Jacob,</hi> and it hath lighted upon
+<pb n="13" facs="tcp:168497:8"/>
+               <hi>Israel.</hi> Now if ye will minde the word, which the Lord hath sent unto <hi>Jacob,</hi> this will lighten and open your blind eyes,
+<note place="margin">
+                  <hi>Isa.</hi> 42.</note> and the Lords promise will be fulfilled unto you, who hath said, I will bring the blind by a way that they know not, and I will lead them in paths that they have not known, I will make dark<g ref="char:EOLhyphen"/>nesse light before them, and crooked wayes straight: In those days and at that time will I cause the branch of righteousnesse to grow up unto <hi>David,</hi> and he shall execute judgement and righteousnesse in the land. In those dayes shall <hi>Judah</hi> be saved, and <hi>Jerusalem</hi> shall dwell safely; and this is his name where<g ref="char:EOLhyphen"/>with he shall be called, The Lord our Righteousnesse: For thus saith the Lord, <hi>David</hi> shall never want a man to sit upon the Throne of the house of <hi>Israel.</hi>
+            </p>
+            <p>So this you must look for in the Spirit, this branch of righte<g ref="char:EOLhyphen"/>ousnesse is in the Spirit, and he executes judgement in the Spi<g ref="char:EOLhyphen"/>rit; and this promise of the Lord unto <hi>David</hi> is in the Spirit: And I will gather the remnant of my flock out of all countries whither I have driven them, and I will bring them againe to their foldes, and they shall be fruitfull and increase, and I will set up shepheards over them, which shall feed them, and they shall feare no more, nor be afraid, neither shall be lacking, saith the Lord: And the righteous branch that the Lord doth raise unto <hi>David,</hi> the King that reigns and prospers is called, The Lord our Righteousnesse, he is the righteousnesse of all, and he executes justice and judgement in the earth in righte<g ref="char:EOLhyphen"/>ousnesse, and <hi>David</hi> in Spirit called him Lord,
+<note place="margin">
+                  <hi>Psal.</hi> 110.</note> who is our righ<g ref="char:EOLhyphen"/>teousnesse, and the righteousnesse of all who are guided by him, and taught of him; and here ye must look for your King, and your Messiah, in the Spirit. So kisse the Son least he be angry, and you perish from the way, when his wrath is kindled but little, blessed are they that trust in him; who is light and a Spirit, that guides and leads his people in pathes they have not known, and this <hi>Michael</hi> the great Prince ye must looke for within first, and they that are wise, and lookes for him where he is to be found, shall shine as the brightnesse of the Firmament, and they that turne many to righteousnesse, as the Stars for ever and ever,
+<note place="margin">
+                  <hi>Dan.</hi> 12,</note> many shall be purified and made white, and tryed, but the wicked shall doe wickedly, and none
+<pb n="14" facs="tcp:168497:9"/>of the wicked shall understand, but the wise shall understand. Doth not wisdome cry,
+<note place="margin">
+                  <hi>Prov.</hi> 8.</note> and understanding put forth her voice, unto you O men I call, and my voice is unto the sons of men: O ye simple understand wisdome, and ye fooles be of an un<g ref="char:EOLhyphen"/>derstanding heart; councell is mine, and sound wisdome, I am understanding, I have strength, by me Kings reigne, and Prin<g ref="char:EOLhyphen"/>decree justice, by me Princes rule, and nobles even all the Jud<g ref="char:EOLhyphen"/>ges of the Earth.</p>
+            <p>Here you may see the universall leading and guiding and go<g ref="char:EOLhyphen"/>verning of the Lord,
+<note place="margin">
+                  <hi>Zach.</hi> 4.</note> is by his own wisdome and counsell in the Spirit, not by my might, nor power, but by my Spirit saith the Lord of Hoasts: Who hath directed the Spirit of the Lord, or being his Counsellour hath taught him, with whom tooke he counsell, and who instructed him in the path of Judgement, and taught him knowledge,
+<note place="margin">
+                  <hi>Isa.</hi> 40.</note> and shewed him the way of un<g ref="char:EOLhyphen"/>derstanding? Behold, the Nations are as the drop of a bucket, and all flesh is as grasse, and the grasse withereth, and the flower fadeth, because the Spirit of the Lord bloweth upon it, but the word of our God shall stand for ever.</p>
+            <p>This is the word which <hi>Moses</hi> taught <hi>Israel,</hi> when he said, thou shalt hearken unto the voice of the Lord thy God, to keep his commandements, and his statutes, and if thou turne to the Lord thy God, with all thy heart, and with all thy soul, for this Commandment, which I command thee this day is not hidden from thee, neither is it far off but the word is very nigh unto thee, in thy mouth, in thy heart, that thou mayest doe it.</p>
+            <p>Mark, here the voice was in their heart, whereby they might keepe the Law and the statutes;
+<note place="margin">
+                  <hi>Deut.</hi> 30.</note> if they did turne to the Lord with all their heart, and with all their soule, then they could keepe and doe it. <hi>Moses</hi> saith further, See I have set be<g ref="char:EOLhyphen"/>fore thee this day, life and death, good and evill in that I com<g ref="char:EOLhyphen"/>mand thee this day to love the Lord thy God, to walke in his wayes, to keep his commandements, and his statutes, and his judgements, that thou mayest live, and the Lord thy God will blesse thee; If they walked in this, and kept this, it was life; But if thy heart turne away, so that thou wilt not heare, but shalt draw away, and worship other Gods, I denounce
+<pb n="15" facs="tcp:168497:9"/>unto thee this day that thou shalt surely perish. So here comes the destruction, by the heart turning away from the word, which is nigh in the heart, which teacheth to love the Lord with all the heart, which word teaches to keep the Law, the statutes, and the judgements, and to walke in them; And though the Lord give you the bread of adversity,
+<note place="margin">
+                  <hi>Isa.</hi> 30.</note> and the wa<g ref="char:EOLhyphen"/>ter of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers, and thine eares shall heare a word behinde thee, saying, this is the way walke in it, when ye turne to the right hand, or to the left.</p>
+            <p>This is the word of the Lord that endures for ever; and by this doth the Lord teach his people:
+<note place="margin">
+                  <hi>Isa</hi> 40.</note> I cloath the heavens with blacknesse, and I make sackcloth their covering. The Lord hath given me the tongue of the learned, that I should know how to speake a word in season to him that is weary; he that hath an eare, let him heare: Is not my word like a fire,
+<note place="margin">
+                  <hi>Jer.</hi> 23.</note> and like a hammer that breaks the rocks in pieces. And <hi>David</hi> saith; Thy word have I hid in my heart, that I might not sin against thee: Thy word is a lampe, unto my feet, and a light unto my paths. The word in <hi>Davids</hi> heart was a light unto him, and so it is unto all, whose heart is upright, who is guided by the light, which is the word, which is the Spirit, which is the Law, which is written in the heart: <hi>David</hi> saith, behold, thou desirest truth in the inward parts, and in the hidden part shalt thou make me to know wisdome. <hi>David</hi> learned wis<g ref="char:EOLhyphen"/>dome in the hidden part; Wash me throughly from mine ini<g ref="char:EOLhyphen"/>quity, and cleanse me from my sin, purge me with Hysop, and I shall be cleane, wash me and I shall be whiter then the snow.</p>
+            <p>This is in the inward part, where the Lord desireth truth: Create in me a cleane heart O God, and renew a right Spirit within me; cast me not away from thy presence, and take not thy holy Spirit from me: restore me unto the joy of thy sal<g ref="char:EOLhyphen"/>vation, and uphold me with thy free Spirit.</p>
+            <p>Here was <hi>Davids</hi> strength in the free Spirit; whose desire was to be renewed in the inward parts, who knew the sacrifice that God acepted, for thou desirest not sacrifice, else would I
+<pb n="16" facs="tcp:168497:10"/>give it thee, but thou delightest not in burnt offerings: The sacrifices of God are a broken spirit,
+<note place="margin">
+                  <hi>Psal</hi> 51.</note> a broken and a contrite heart O God thou wilt not despise.</p>
+            <p>This is the sacrifice God only accepts, truth in the inward parts, where the righteousnesse of his law is known, and seen; The Lord is nigh to them that are of a broken heart, and saveth such as be of a contrite Spirit. Here the Lord writeth his law, and here he placeth his feare.
+<note place="margin">
+                  <hi>Psal.</hi> 37.</note> The mouth of the righteous speaketh wisdome, and his tongue talketh of judgement, the law of God is in his heart, none of his steps shall slide. The Law of God is perfect, converting the soule, the Testimony of the Lord is sure, making wise the simple, the statutes of the Lord are right, rejoycing the heart, the commandement of the Lord is pure, enlightning the eyes, the feare of the Lord is cleane,
+<note place="margin">
+                  <hi>Psal.</hi> 19.</note> enduring for ever, the judgements of the Lord are true and righteous, altogether more to be desired are they then Gold, yea then much fine Gold, sweeter also then honey, and the honey combe, by them is thy servant forewarned, and in keeping of them there is great reward.</p>
+            <p>See how <hi>David</hi> reads them in his pure heart, and ranks them up together, who knows the worth and value of them, who lives in uprightnesse and purity, in keeping the righteous judgements,
+<note place="margin">
+                  <hi>Psal.</hi> 119.</note> and statutes of the Lord, who saith, I will run the way of thy commandements, when thou shalt enlarge my heart: Teach me, O Lord the way of thy statutes, and I shall keep it to the end, give me understanding, and I shall know thy Law.</p>
+            <p>Here is <hi>Davids</hi> way in the commandements, in the statutes, in keeping of the Law, in the Testimony, in the word, in the feare of the Lord, in the precepts, and in the righteousnesse; and this is the way of all the righteous who are pure in heart; who only sees God, and unto this spirit of <hi>David,</hi> which leads unto purity and holinesse, is the promise of the Lord establi<g ref="char:EOLhyphen"/>shed for ever. Thus saith the Lord, if ye can breake my Cove<g ref="char:EOLhyphen"/>nant of the day and of the night,
+<note place="margin">
+                  <hi>Jer.</hi> 32.</note> that there should not be day and night in their season, then may also my Covenant be bro<g ref="char:EOLhyphen"/>ken with <hi>David</hi> my servant, that he should not have a Son to reigne upon his Throne; as the Hoast of Heaven cannot be
+<pb n="17" facs="tcp:168497:10"/>numbred, neither the sand of the Sea measured, so will I mul<g ref="char:EOLhyphen"/>tiply the seed of <hi>David</hi> my servant.</p>
+            <p>This is the day of the fulfilling of this promise to all <hi>Da<g ref="char:EOLhyphen"/>vids</hi> seed, and <hi>Davids</hi> spirit, Blessed are the undefiled in the way, who walke in the Law of the Lord: O how doe I love thy Law, it is my meditation all the day,
+<note place="margin">
+                  <hi>Psal.</hi> 119.</note> unlesse thy Law had been my delight; I should have perished in mine affliction: my soule is continually in mine hand, yet doe I not forget thy Law. Take not the word of thy truth out of my mouth, for I have hoped in thy judgements, so that I keep thy Law conti<g ref="char:EOLhyphen"/>nually for ever, and ever. Here <hi>David</hi> kept the Law through the word for ever: O Lord thy word is setled in Heaven. The word of the Lord is right,
+<note place="margin">
+                  <hi>Psal.</hi> 33.</note> and all his works are one in truth. Before I was afflicted I went astray, but now have I kept thy word; The proud hath forged lies against me, their heart is fat as grease, but I have kept thy Law: The Law of thy mouth is better to me than thousands of Gold and silver. The entrance of thy word giveth light. And <hi>Solomon</hi> saith, The commandement is a lampe, and the Law is light,
+<note place="margin">
+                  <hi>Prov.</hi> 6</note> and the reproofes of instruction are the way of life: This is the wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of life, the light, which is the Law, where reproofes are, where the instruction is leading and guiding in the pure path. Hearken unto me ye that know righteousnesse,
+<note place="margin">
+                  <hi>Isa.</hi> 51.</note> the people in whose heart is my Law: Hearken unto me, O my people, give eare unto me, O my Nation, for a Law shall proceed from me, and I will make my judgement to rest for a light: My righteous<g ref="char:EOLhyphen"/>nesse is neare, my salvation is gone forth, and mine arme shall judge the people, and the Isles shall waite upon me, and on my arme shall they trust.</p>
+            <p>Here is the righteousnesse of the Law brought neare to them whose mindes are turned to the light, which leads into righte<g ref="char:EOLhyphen"/>ousnesse, and teacheth righteousnesse, all them that waites upon the arme of the Lord. For the Lord God is gathering his sheep, where they have been scattered, for thus saith the Lord God, Behold I, even I, will both search my sheep, and seek them out, as a shepheard seeketh out his flock, in the day that he is among his sheep that are scattered, so will I seek out my sheep, and will deliver them out of all places, where they
+<pb n="18" facs="tcp:168497:11"/>have been scattered in the cloudy and dark day, and I will bring them out from the people, and gather them from the countries, and will bring them into their own Land, and feed them upon the Mountaines of <hi>Israel,</hi> by the Rivers, in all the inhabitable places of the Country: I will feed them in a good pasture, and upon the high Mountaines of <hi>Israel,</hi> there shall their fold be, Mark, there is the Lords house established, in the top of the mountaines unto which the Nations flowes, there shall they lye down in a good fold, and in a fat pasture shall they feed, and I will cause them to lye down saith the Lord God, and I will seek that which is lost, and bring againe that which is driven away, and I will binde up that which is broken, and will strengthen that which is sicke, but I will destroy the fat, and the strong, I will feed them with judgement: There<g ref="char:EOLhyphen"/>fore will I save my flock, and they shall be no more a prey, and I will judge between cattell,
+<note place="margin">
+                  <hi>Ezek.</hi> 34.</note> and cattell, and I will set up one shepheard, even my servant <hi>David,</hi> he shall feed them, and he shall be their shepheard, and I the Lord will be their God, and my servant <hi>David</hi> a Prince among them, I the Lord have spo<g ref="char:EOLhyphen"/>ken it.</p>
+            <p>This prophecy is the Lord bringing to passe, and gathering his flock, and raising up the plant of his renowne, which shall never be consumed, but shall grow up to the praise, and glory of his name, for the stone cut out of the Mountaine without hands is smiting the image upon his feet, which is iron and clay, and the brasse, and the silver, and the gold is he breaking to pieces, and it is becoming as the chaffe of the threshing floore, that withereth away; and the stone that smites the i<g ref="char:EOLhyphen"/>mage is becoming a great Mountaine, and it shall fill the whole earth, and the Thrones are casting down, and the ancient of dayes doth sit, whose garment is white as snow, and the haire of his head as pure wooll, his Throne is like the fiery flame, a fiery flame issueth and cometh out before him, thousand thou<g ref="char:EOLhyphen"/>sands gives praises to him, and ten thousand times ten thousand gives glory and honour before him, and judgement is set, and the bookes are opening, and the beast is coming to be slaine, and his body to be given to the burning flame; who beares his image and have his marke, who have fallen down and wor<g ref="char:EOLhyphen"/>shiped
+<pb n="19" facs="tcp:168497:11"/>him; his power is fall ng, and the Dragon that gives him his power is chaining, and the measuring reed is gone forth that measures the Temple, and leaves out the court, and the just ballance is weighing, and the tryed stone is judging, the precious corner stone, which layes judgement to the line, and righteousnesse to the plummer, so all that desires to know the living God, who desires to have the light of his countenance to shine upon them, turne to the light within you, this is the way, the truth and the life, and there is no other way, nor name under Heaven by which any shall be saved, or come to the knowledge of the true God, for God is light, and God is a Spirit, and God is the word; and this is the blessing where<g ref="char:EOLhyphen"/>with <hi>Moses</hi> the man of God blessed the children of <hi>Israel,</hi> and he said, The Lord came from <hi>Sinai,</hi> and rose up from <hi>Seir</hi> unto them, and he shined forth from mount <hi>Paran;</hi> from his right hand went a fiery law for them.</p>
+            <p>This is the law which the Saints receive from the Lords right hand, which burnes up all the chaffe, and cuts downe all that is contrary to it. The flaming sword that keeps the Tree of life, he that can receive it let him.</p>
+            <p>So now, if ye will come out of the old Covenant, which Co<g ref="char:EOLhyphen"/>venant ye have broken, and so are Covenant breakers with God, and cannot be accepted in that condition, but lyes deso<g ref="char:EOLhyphen"/>late and forsaken; So if ye will be accepted of God, or recei<g ref="char:EOLhyphen"/>ved unto him, ye must come into the new Covenant, for there is God engaged to you, and there is God known, in the Spi<g ref="char:EOLhyphen"/>rit, and there is God worshiped in the Spirit, where the Law is written in the heart, and the Spirit put in the inward parts, which teacheth righteousnesse, and leads and guides into puri<g ref="char:EOLhyphen"/>ty, which Spirit circumciseth the heart, which is the seale of the new Covenant, circumcision which is of the heart, in the Spirit.</p>
+            <p>So be not faithlesse and unbelieving, still going on in hard<g ref="char:EOLhyphen"/>nesse of heart, and in the provocation, as your fathers did, which grieved the Lord, that he swore in his wrath, they should not enter into his rest, they tempted him, and proved him, and would not believe in his works, and so entered not because of unbeliefe. And the Prophet <hi>Isaiah</hi> complained, and
+<pb n="20" facs="tcp:168497:12"/>said,
+<note place="margin">
+                  <hi>Jer.</hi> 28.</note> who hath believed our report, hardnesse of heart, and unbeliefe hath been your ruine, ye would not believe your go<g ref="char:EOLhyphen"/>ing to <hi>Babylon,</hi> which the Lord spoke by <hi>Jeremiah,</hi> but would rather hearken to <hi>Hananiah</hi> the false Prophet. And the Lord commanded you, saying let not your prophets and diviners be in the middest of you, which deceives you, for they prophecy falsly in my name; and I have not sent them saith the Lord, and the Prophet <hi>Isaiah</hi> cryed,
+<note place="margin">
+                  <hi>Jer.</hi> 29.</note> woe to the rebellious house, saith the Lord, that taketh councell, but not of me, that cover with a covering, but not of my Spirit.</p>
+            <p>Now goe ye write it before them in a Table, and note it in a booke, that it may be for the time to come, for ever and e<g ref="char:EOLhyphen"/>ver, that this is a rebellious people, lying children, children that will not heare the Law of the Lord,
+<note place="margin">
+                  <hi>Isa.</hi> 30.</note> which say to the seers, see not, and to the Prophets prophecy not unto us right things, speake unto us smooth things, prophecy deceits. And you would not heare the roule that the Lord by <hi>Jeremiah</hi> made to be written,
+<note place="margin">
+                  <hi>Jer,</hi> 36.</note> but when it came to passe, when <hi>Jehudi</hi> had read three or four lines, he cut it with the pen-knife, and cast it into the fire that was on the hearth, so caused <hi>Jeremiah</hi> and <hi>Baruch</hi> to be cast into the dungeon, and thus you requited the Lord evill for good, who had alwayes thoughts of good towards you, and thoughts of peace; Since the day that your fathers came out of the land of <hi>Aegypt,</hi> unto this day saith the Lord, I have sent my servants the Prophets,
+<note place="margin">
+                  <hi>Jer.</hi> 7.</note> saith the Lord, dayly ri<g ref="char:EOLhyphen"/>sing up early, and sending them, yet they hearkened not unto me, nor enclined their care, but hardened their necks, they did worse then their Fathers.</p>
+            <p>This hath been your sin all along, you would not believe the Lord when he spoke to you, neither by <hi>Moses,</hi> nor by his true prophets, but ye did set up and establish false prophets among you; your fathers received the Law by the dispensation of An<g ref="char:EOLhyphen"/>gells, and have not kept it; but have broken it, for <hi>Moses</hi> said, Thou shalt love the Lord thy God with all thy heart, with all thy soule, and with all thy minde, thou shalt be perfect with the Lord thy God: And <hi>Moses</hi> said, The Lord thy God will raise up unto thee a Prophet like unto me, unto him shalt thou hearken, according to all that thou desiredst of the Lord thy
+<pb n="21" facs="tcp:168497:12"/>God in <hi>Horeb,</hi> in the day of thy assembly; saying, let me not heare againe the voice of the Lord my God, neither let me see the great fire any more, that I dy not.</p>
+            <p>This was terrible to you, thundrings, and lightenings, and the noise of the Trumpet, and the Mountaine smoking; and the thick darknesse, which was where God was; This ye desi<g ref="char:EOLhyphen"/>red to see no more, and God was pleased to answer your de<g ref="char:EOLhyphen"/>sire, and said unto <hi>Moses,</hi> They have well spoken that which they have spoken, I will raise them up a prophet, from among their brethren, like unto thee, and will put my words in his mouth, he shall speake unto them, all that I command him: and it shall come to passe, that whosoever will not hearken un<g ref="char:EOLhyphen"/>to my words, which he shall speake in my name, I will require it of him.</p>
+            <p>And unto this prophet ye have not hearkened, yet, unto this day; nor obeyed his voice: And now is the prophet speaking unto you in the Spirit, which is light, which is in the midst of thee.</p>
+            <p>And now if ye will heare, and believe in this Prophet, this is the word which <hi>Moses</hi> said was nigh in the heart, which the Lord hath raised in this his day, that all men through him might believe: the light is risen in the hearts and consciences of men, by which the Lord teaches all Nations, and gathers all Nations into one, which is like unto <hi>Moses,</hi> who saith, this commandement which I command thee this day, is not hidden from thee, neither is it far off, it is not in Heaven, that thou shouldest say, who shall goe up for us to Heaven, to bring it unto us, that we may heare it, and doe it, neither is it beyond the Sea, that thou shouldest say who shall goe over the Sea for it, to bring it to us, that we may heare it, and doe it, but the word, (and the Prophet) is very nigh in thy heart, that thou mayest heare it, and doe it. Here thou must finde the Pro<g ref="char:EOLhyphen"/>phet that the Lord promised unto <hi>Moses,</hi> that he would raise up, if ever thou finde him. I have not spoken in secret, saith the Lord, in a darke place of the earth, I say not unto the house of <hi>Jacob,</hi> seek ye my face in vaine;
+<note place="margin">
+                  <hi>Isa.</hi> 45.</note> I the Lord speake righteousnesse, I desire things that are right, assemble your selves, and come near together, who hath declared this from
+<pb n="22" facs="tcp:168497:13"/>ancient times, who hath told it from that time, have not I the Lord, and there is no God else besides me, a just God and a Saviour, and there is none besides me, look unto me, and be ye saved all the ends of the earth.</p>
+            <p>And to this word and Prophet must all the ends of the earth looke, that are saved. Therefore thus saith the Lord God, Behold I lay in <hi>Sion</hi> for a foundation a stone,
+<note place="margin">
+                  <hi>Isa.</hi> 28.</note> a tryed stone, a precious corner stone, a sure foundation, he that believes shall not make hast, judgment also shall he lay to the line, and righteousnesse to the plummet.</p>
+            <p>This is he that is laid in <hi>Zion,</hi> a sure foundation, who ever believes in him layes judgement to the line, for <hi>Zion</hi> is re<g ref="char:EOLhyphen"/>deemed through judgment, and her converts with righteous<g ref="char:EOLhyphen"/>nesse; ye are my witnesses saith the Lord, and my servant whom I have chosen, that ye may know, and believe me, and understand, that I am he, before me there was no God formed, neither shall there be any after me; I have declared, and I have saved, and I have shewed, when there was no strange God in you; Therefore ye are my witnesses, saith the Lord, that I am God. Remember ye not former things, neither con<g ref="char:EOLhyphen"/>sider the things of old, Behold I will doe a new thing, shall ye not know it,
+<note place="margin">
+                  <hi>Isa.</hi> 43.</note> I will even make a way in the Wildernesse, and ri<g ref="char:EOLhyphen"/>vers in the desart.</p>
+            <p>Now see if you can believe in the Lord, which is doing a new thing, and is bringing forth his mighty workes, even a<g ref="char:EOLhyphen"/>mong the Heathen; The Lord is working a work in these dayes, which ye will not believe though it be told you.</p>
+            <p>Now if ye love your soules, and your eternall good, be no more stiffe necked, and unbelieving, but come down into the feare of the Lord, and let the light of the Lord, which checks you for sin and evill, search you, and try you, and see your foundation where you stand, who alwayes was a rebellious people against the Lord, so that he complains my people would not hearken to my voice, and <hi>Israel</hi> would have none of me; Oh that my people would have hearkened unto me,
+<note place="margin">
+                  <hi>Psal.</hi> 81.</note> and <hi>Israel</hi> would have hearkened to my wayes, how soon would I have subdued their enemies, and turned my hand against their adver<g ref="char:EOLhyphen"/>saries, and <hi>Moses</hi> said of the rock that begat thee thou art un<g ref="char:EOLhyphen"/>mindfull,
+<pb n="23" facs="tcp:168497:13"/>and hast forgotten God that formed thee; And when the Lord saw it; he abhorred thee, and he said, I will hide my face from them, I will see what their end shall be; for they are a very froward generation, children in whom there is no faith.</p>
+            <p>And again, the Lord saith unto <hi>Moses,</hi> how long will this people provoke me, and how long will it be ere they believe me, for all the signes that I have shewed amongst them. So here you stand yet in the unbeliefe and hardnesse of heart, and stiffneckednesse, and now it is time for you to returne unto the Lord who calls you, and to believe on him, and hearken to his voice within you, his witnesse and testimony which he hath given you, which testifies against all sin, and all unrighteous<g ref="char:EOLhyphen"/>nesse, and all unbeliefe, and hard-heartednesse, and unclean<g ref="char:EOLhyphen"/>nesse, and this testifies against all oppression and wrong, there is that in your hearts which tells you, that you should doe unto all men, as ye would they should doe unto you; this is just, this is righteous, this is equall, there is that in you which testifies against lying and false swearing, and bearing false wit<g ref="char:EOLhyphen"/>nesse against your neighbour, there is that in your consciences which tells you, you should have no other God but the living God, and that ye should not make any graven Image.</p>
+            <p>Now if you doe not minde that of God in you, to guide you and leade you, you serve not the living God, but makes an I<g ref="char:EOLhyphen"/>mage in your mindes of him, which the light of God in you lets you see is not the truth. If ye will come downe to the light of God in you, it will shew you your hardnesse of heart, and your hypocrisie, and your rebellion against the living God, and if you mind the light of God in you, which will rip you up, and lay open all the secrets of your hearts; It lets you see that you have taken the name of the Lord in vaine, and that you are guilty before the Lord of sin, and transgression; and the light of the living God will let you see, that you have not kept the sabboth and fast to the Lord, which is, to loose the bonds of wickednesse, and to undoe the heavy burdens, and to let the oppressed goe free, and to breake every yoake, this is the fast which the Lord hath chosen, and this ye have not done yet, the light will let you see the bonds of wickednesse,
+<pb n="24" facs="tcp:168497:14"/>are yet unbroken, and the just of God suffers in oppression in you, for if you had kept this fast, then should the light breake forth as the morning, and your health should spring forth spee<g ref="char:EOLhyphen"/>dily, and righteousnesse should goe before thee, and the glory of the Lord should be thy reward, here would be a sabboth and rest to the just of God, which is in bonds in you, and in op<g ref="char:EOLhyphen"/>pression, which the true fast of the Lord would breake; The pure light of God in you doth let you see, that you ought not to steale, nor to kill, which saith thou shalt doe no murther, thou shalt not beare false witnesse, thou shalt not covet; If you would bring your minds to the pure eternall light of God in you, you would heare the same voice of God, as ever was, who is manifested in this his day, in his Spirit. And this light and Spirit of the living God will let you see your selves to be commandement-breakers, to be sabboth-breakers, and Cove<g ref="char:EOLhyphen"/>nant-breakers; this will let you see that you are out of the way, and that you are become filthy and corrupt.</p>
+            <p>And in this condition there is no peace for you, nor recon<g ref="char:EOLhyphen"/>ciliation with God; if ever ye know peace and atonement with God, ye must come to the light, to be proved by the light, and tryed by the light, and led by the light, and guided by the light,</p>
+            <p>And this will lead you into all truth, and righteousnesse and peace; and here you will be washed, and purged, and purifi<g ref="char:EOLhyphen"/>ed, and the vaile will be taken off and rent, which is over your heart, and the true circumcision will be known, which is of the heart, in the Spirit, and the offering of a broken and con<g ref="char:EOLhyphen"/>trite heart, which the Lord only accepteth will be known, and the sabboth of the Lord will be known, where there is true rest and peace, and true worshiping in the Spirit, and the holy day will be known, but all this is known by the washing of the blood of the everlasting Covenant, which cleanses from all sin.</p>
+            <p>And so if you would abide here in this pure light and Spirit, ye would know life eternall, and then ye would know what the Lord said, when he said, I would have fed them with the finest wheat, and with honey out of the stony rock would I have satisfied thee.</p>
+            <pb n="25" facs="tcp:168497:14"/>
+            <p>And so as you come to waite in the light, and abide in the light, you will come to know this, and so the just will come to live, for the just lives by his faith.
+<note place="margin">
+                  <hi>Hab.</hi> 2.</note>
+            </p>
+            <p>So wait in the light of the Lord, who is sending forth the light of his truth in this his day; They that waite in the Lord shall renew their strength, blessed are all they that waite for him; <hi>David</hi> saith, Let integrity and uprightnesse preserve me, for I waite on thee, and againe; waite on the Lord, be of good courage, and he shall strengthen thy heart; waite I say on the Lord, those that waite on the Lord shall inherit the earth, I waite for the Lord, my soule doth waite, in his word doe I hope; My soule waiteth for the Lord, more than they that watch for the morning; Let <hi>Israel</hi> hope in the Lord,
+<note place="margin">
+                  <hi>Psal.</hi> 130.</note> for with the Lord there is mercy, he shall redeeme <hi>Israel</hi> from all his iniquity.</p>
+            <p>Now if ye can believe <hi>David,</hi> you will come to waite upon the Lord, your soule will waite upon the Lord, more than they that watch for the morning, And <hi>David</hi> saith, The Lord is my light and salvation, in thy light I shall see light; And a<g ref="char:EOLhyphen"/>gain, he shall bring forth thy righteousnesse as light; And a<g ref="char:EOLhyphen"/>gain, God is the Lord who hath shewed us his light.
+<note place="margin">
+                  <hi>Prov.</hi> 20.</note> Here did <hi>David</hi> waite upon the Lord in his light, And <hi>Solomon</hi> saith, waite on the Lord and he shall save thee.
+<note place="margin">Isa.</note> He shall not faile nor be discouraged till he have set judgment in the earth, and the Isles shall waite for his law, and they that waite upon the Lord shall mount up as with Eagles wings, they shall walke and not be weary, run, and not faint.</p>
+            <p>So here is your way, and no salvation shall ye find in any other, but as you come into the feare of the Lord, to waite upon him in his light in you, to guide your mindes, when you turne to the right hand, or to the left; being guided by the light, this will strengthen your heart, and this will lead you to uprightnesse and singlenesse of heart.</p>
+            <p>And here ye must know your King he is just and righteous, having salvation, and he rules and reigns in justice and righte<g ref="char:EOLhyphen"/>ousnesse, and so waiting here in the Spirit, you will come to re<g ref="char:EOLhyphen"/>ceive the promises of the Lord unto you, who is now holding forth his hand of love unto you, and if ever ye come to know
+<pb n="26" facs="tcp:168497:15"/>him, or to know the Kingdome restored unto <hi>Israel,</hi> ye must prepare to meet him in the Spirit, eternally ye shall witnesse this to be truth: and as ye are subject and obedient to the teaching and leading, and guiding of the Lord in the Spirit, so will he save you from all your uncleannesse, and you will receive his promise, and so the dry bones will come to live, and the wind will breath from the four windes, that they may live; and you will receive this promise. Thus saith the Lord, I will open your graves, and I will cause you to come up out of your graves, and you shall know that I am the Lord, when I have opened your graves, and brought you up out of your graves, and I will put my Spirit within you, and ye shall live; Moreover I will make a Covenant of peace with them, it shall be an everlasting Covenant with them, and I will place them, and multiply them, and I will set my sanctu<g ref="char:EOLhyphen"/>ary in the midst of them for evermore. My Tabernacle also shall be with them,
+<note place="margin">
+                  <hi>Ezek.</hi> 37.</note> yea, I will be their God, and they shall be my people, and the Heathen shall know that I the Lord doe sanctifie <hi>Israel,</hi> when my sanctuary shall be in the midst of them for evermore.</p>
+            <p>So as you waite in the pure eternall Spirit of light, this you will come to see fulfilled, according to your faithfulnesse, and according to your obedience, for obedience is required, and the new Covenant which is light, leads into obedience which is better than sacrifice.</p>
+            <p>This <hi>Moses</hi> prophesied of, when he spoke of your trouble and afflictions, which were to come upon you, he saith; Even in the latter dayes if thou turn to the Lord thy God,
+<note place="margin">
+                  <hi>Deut</hi> 4.</note> and shalt be obedient unto his voice, the Lord thy God is a merci<g ref="char:EOLhyphen"/>full God, he would not forsake thee.</p>
+            <p>And againe; It shall come to passe when all these things are come upon thee, the blessings and the curses, which I have set before thee, and shalt call them to minde among all the nations whither the Lord thy God hath driven thee, and shalt returne unto the Lord thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children,
+<note place="margin">
+                  <hi>Deut.</hi> 30.</note> with all thy heart, and with all thy soule; That the Lord thy God shall turne away thy captivity, and will have
+<pb n="27" facs="tcp:168497:15"/>compassion upon thee, and will returne and gather thee from all Nations, whither the Lord thy God hath scattered thee.</p>
+            <p>See now whether ye will believe <hi>Moses,</hi> and whether ye will be obedient to the Prophet, that the Lord is raising, like unto <hi>Moses,</hi> (which is light) to which if ye will be obe<g ref="char:EOLhyphen"/>dient, it will gather you from all nations whither you are scatte<g ref="char:EOLhyphen"/>red, and bring you into the good land, where there is one heart, and one Spirit, where the Lord is one, and his name one, and this is the land of promise, and the Covenant of God unto you, and all Nations, who come to know him in the Spi<g ref="char:EOLhyphen"/>rit, they that are willing and obedient eates the good of this land, and they that are far off, shall come and build in the tem<g ref="char:EOLhyphen"/>ple of the Lord, and ye shall know that the Lord hath sent me unto you; And this shall come to passe, If you diligently obey the voice of the Lord your God.</p>
+            <p>So here is the condition and promise and Covenant of the Lord; according to your obedience to the voice of the Lord in his Spirit, so will it be unto you. And now the prophesie of <hi>Hosea</hi> is fulfilled upon you, you have been many dayes without a King, without a Prince, and without a sacrifice, and without an Ephod.</p>
+            <p>Now if you would returne unto the Lord in obedience to his light in you, and seek the Lord, and <hi>David</hi> your King, and feare the Lord and his goodnesse in these latter dayes, it would goe well with you, for the Lord desireth mercy, and not sacrifice, and the knowledge of the Lord more than burnt offerings.</p>
+            <p>And if ye desire to know the Lord, you must turne your mindes unto his light, there will you come to know him and feele him, and find him neare; then will you know the trum<g ref="char:EOLhyphen"/>pet of the Lord that is blown in <hi>Sion,</hi> and the alarme sounded in his holy mountaine, which makes all the Inhabitants of the earth to tremble, when the day of the Lord cometh, for it is nigh at hand.
+<note place="margin">
+                  <hi>J<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> .</hi> 2.</note> And it is come to passe which the Prophet pro<g ref="char:EOLhyphen"/>phesied of <hi>Zeph.</hi> At that time it shall come to passe that I will search <hi>Jerusalem</hi> with candles, and punish the men that are setled on their lees, the day of the Lord discovers them,
+<pb n="28" facs="tcp:168497:16"/>and will be sorrow and distresse unto them, the great day of the Lord is near, it is near, and hastes greatly, even the voice of the day of the Lord; that day is a day of wrath, a day of trouble, and distresse, a day of darknesse and gloomines, a day of the Trumpet and Allarm.</p>
+            <p>So waite in the pure light that shineth in you; and there you will see this day of the Lord, and heare the voice of this day near, Therefore waite upon me saith the Lord untill the day that I rise up to the prey, for my determination is to gather the nations, that I may assemble the Kingdomes, to pour upon them mine indignation, even all my fierce an<g ref="char:EOLhyphen"/>ger, for all the earth shall be devoured, with the fire of my indignation.</p>
+            <p>Who waites upon the Lord in his pure light and Spi<g ref="char:EOLhyphen"/>rit shall see this fulfilled, and shall be preserved in the Lords light, for then will I turne to the people a pure lan<g ref="char:EOLhyphen"/>guage, that they may all call upon the name of the Lord, to serve him with one consent.</p>
+            <p>Here is the one light that gathers into one, here is the one Spirit, and the one heart; and here is the pure language learned, here the envy of <hi>Ephraim</hi> shall depart; and the adversaries of <hi>Judah</hi> shall be cut off, <hi>Ephraim</hi> shall not envy <hi>Judah,</hi> and <hi>Judah</hi> shall not vex <hi>Ephraim,</hi> when the gathe<g ref="char:EOLhyphen"/>ring of the Nations is unto this ensigne, when the Lord thy God is in the midst of thee, who is mighty to save, he will rejoyce over thee;
+<note place="margin">
+                  <hi>Isa.</hi> 11.</note> Then sing, and rejoyce O daughter of <hi>Zion,</hi> for lo I come, and will dwell in the midst of thee, saith the Lord; And many nations shall be joyned to the Lord in that day, and shall be my people, and I will dwell in the midst of thee; and the Lord shall inherit <hi>Judah</hi> his por<g ref="char:EOLhyphen"/>tion in the holy land, and shall chuse <hi>Jerusalem</hi> againe, but let all flesh be silent before the Lord,
+<note place="margin">
+                  <hi>Zach.</hi> 2.</note> for he is risen up, out of his holy habitation; where no flesh can come, nor the service of no flesh is accepted, but all flesh is to be silent before the Lord, for the pure worship of God is in the Spirit, which is one in all, which is the ensigne that is set, for the gathering of all Nations together in the one Spirit, and one heart, where the Lord is in the midst, and the glory of this latter house is
+<pb n="29" facs="tcp:168497:16"/>greater than the former, saith the Lord of hoasts; In this place will I give peace, and in that day will the Lord defend the Inhabitants of <hi>Jerusalem,</hi> and he that is feeble among them, at that day shall be as <hi>David,</hi> and the house of <hi>David</hi> shall be as God, as the Angell of the Lord before them, and it shall come to passe in that day, that I will seek to destroy all nations that come against <hi>Jerusalem.</hi>
+            </p>
+            <p>This you may look for, when there is pure obedience, and waiting in the light upon the Lord, to be guided, and his mighty power, and arme to carry on, then will the Lord ful<g ref="char:EOLhyphen"/>fill his promise, who saith, I will make thee a sharpe threshing instrument, having teeth, thou shalt thresh the Moun<g ref="char:EOLhyphen"/>taines and beat them small, and make the hills as chaffe, and then the promise of the Lord will be fulfilled, I will poure upon the house of <hi>David,</hi> and upon the Inhabitants of <hi>Jeru<g ref="char:EOLhyphen"/>salem</hi> the Spirit of grace, and of supplication, and they shall look upon me whom they have pierced, and mourn for him, as one mourneth for his only Sonne, and be in bitternes for him, as one that is in bitternesse for his first born.</p>
+            <p>Waiting in the light, in the pure feare, and subjection, there will ye come to see him whom ye have pierced, and when ye see him, ye will mourne over him, as one that mour<g ref="char:EOLhyphen"/>neth for his first borne; and then the Spirit of grace and sup<g ref="char:EOLhyphen"/>plication you will know, and then the fountaine ye will see opened, which is to the house of <hi>David,</hi>
+               <note place="margin">
+                  <hi>Zach.</hi> 14.</note> and to the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Jerusalem</hi> for sin and for uncleanesse; And in that day the living waters shall goe out from <hi>Jerusalem,</hi> and the Lord shall be King over all the earth; In that day there shall be one Lord, and his name one.</p>
+            <p>And so here is your head, and your rest, and your Kingdome, and your land of promise; and to this you must passe in the Spirit; There is no other way but the light, the way of holi<g ref="char:EOLhyphen"/>nesse, which is through the wildernesse, and through the de<g ref="char:EOLhyphen"/>sart.</p>
+            <p>And as ye passe in this way, ye will know the shaking down of the power of darknesse; Thus saith the Lord of hoasts, yet once, and it is a little while, and I will shake the Heavens,
+<note place="margin">
+                  <hi>Hag.</hi> 2.</note> and the earth, and the Sea, and the dry land, and I will shake
+<pb n="30" facs="tcp:168497:17"/>all nations, and the desire of all Nations shall come, and I will fill this house with glory, saith the Lord of hoasts, glory and honour be to the Lord for evermore.</p>
+            <p>Now as ye waite in the eternall light, and your minds are kept to it, this you will read near, for these Scriptures were spoken forth, from an eternall Spirit within, and no other Spi<g ref="char:EOLhyphen"/>rit can read them, but the same that spoke them forth, which Spirit is light, which all the servants and messengers of God spoke from, which the naturall man knoweth not, where the power of darknesse reignes. Behold I send my messenger, and he shall prepare the way before me, and the Lord whom ye seek shall suddenly come to his Temple, even the messenger of the Covenant whom ye delight in; Behold he shall come saith the Lord of hoasts, but who may abide the day of his coming, and who shall stand when he appeares, for he is like a refiners fire, and like fullers sope, and he shall sit as a refiner, and purifier of silver, and he shall purifie the sons of <hi>Levi,</hi> and purge them as gold and silver, that they may offer to the Lord an offering in righteousnesse, then shall the offerings of <hi>Judah</hi> and <hi>Jerusalem</hi> be pleasant unto the Lord, as in the dayes of old, and as in former yeares; As the pure obedience to the pure light is given,
+<note place="margin">
+                  <hi>Isa.</hi> 25.</note> so there will be purging and puri<g ref="char:EOLhyphen"/>fying, and the refiner shall sit, and purely purge away thy drosse, and take away thy sin, who saith I will come near to you to judgement, and I will be a swift witnesse against the sorcerer, and the adulterer, and the false swearer, for I am the Lord I change not, therefore ye sons of <hi>Jacob</hi> be not con<g ref="char:EOLhyphen"/>sumed.</p>
+            <p>So as ye love your soules and your eternall peace turne to the Lord, that calls you, whose spirit will not alwayes strive with man, whose hand of love is continued and holden forth to you.</p>
+            <p>Doe not alwayes hate to be reformed, least he breake in upon you, and destroy you, for he hath put on righte<g ref="char:EOLhyphen"/>ousnesse as a breast-plate, and a helmet of salvation up<g ref="char:EOLhyphen"/>on his head, and he hath put on the garments of ven<g ref="char:EOLhyphen"/>geance for cloathing, and is clad with zeale as with a cloake, according to your deeds, accordingly he will repay fury to his
+<pb n="31" facs="tcp:168497:17"/>adversaries, recompence to his enemies.</p>
+            <p>So when his righteousnesse is revealed, in executing ven<g ref="char:EOLhyphen"/>geance on his enemies, then shall they feare the name of the Lord from the west, and his glory from the rising of the Sun, when the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him; And the Redeemer shall come to <hi>Zion,</hi> and unto them that turne from transgres<g ref="char:EOLhyphen"/>sion in <hi>Jacob,</hi> saith the Lord; as for me this is my Covenant with them saith the Lord, my Spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seeds seed, from hence forth and for ever.</p>
+            <p>This promise is eternall, and this remaines upon the seed of the promise for ever, and the promise to the seed is the Spirit; and the redeemer comes unto <hi>Zion</hi> in the Spirit, and he comes to those that turnes from their transgression, and the ministry of the Spirit is to turne from the darknesse to the light, and from the power of Satan unto God: And here comes the resurrection, and the hope of <hi>Israel,</hi> and here the valley of <hi>Achor</hi> is the door of hope. Thus saith the Lord, as the new wine is found in the cluster, and one saith, destroy it not, for a blessing is in it: So will I doe for my servants sake that I may not destroy them all; And I will bring forth a seed out of <hi>Jacob,</hi> and out of <hi>Judah,</hi> mine elect shall inherit it,
+<note place="margin">
+                  <hi>Isa.</hi> 65.</note> and my servants shall dwell there: and Sharon shall be a folde of flocks, and the valley of <hi>Achor</hi> a place for the heards to ly down in, for my people that have sought me.</p>
+            <p>This is to all the servants of the Lord that have sought him, Jewes and Gentiles, where the new wine is found in the cluster, which the blessing is to, <hi>Sbaron</hi> is a folde for all those flocks that seekes unto the Lord and serves him, not of the Jewes on<g ref="char:EOLhyphen"/>ly, but also of the Gentiles.</p>
+            <p>And so the promise is fulfilled, where it is said, God shall enlarge <hi>Japhet,</hi> and he shall dwell in the tents of <hi>Shem;</hi> and where the Lord saith by the Prophet, I will sow her unto me in the earth, and will have mercy on her that had not obtained
+<pb n="32" facs="tcp:168497:18"/>mercy,
+<note place="margin">
+                  <hi>Hos.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.23.</note> and I will say unto them that were not my peo<g ref="char:EOLhyphen"/>ple, thou art my people, and they shall say thou art my God.</p>
+            <p>Here is the large infinite love of God manifested, who saith, It is a light thing that thou shouldest raise up the tribes of <hi>Jacob,</hi> and restore the preserved of <hi>Israel,</hi> I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the ends of the earth.</p>
+            <p>Here is the Covenant that reacheth unto all, the light; and all that come into the light to be guided, led, and governed, comes into the Covenant.</p>
+            <p>So think it not strange, to receive this Testimony from the Gentiles, who have obtained mercy, and received the promise of the Lord, according to <hi>Isaiahs</hi> prophesie: I am found of them that sought me not,
+<note place="margin">
+                  <hi>Isa.</hi> 65.</note> I said unto a people, behold me un<g ref="char:EOLhyphen"/>to a nation that was not called by my name, I have spred out my hand all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts.</p>
+            <p>Here is your state and condition: Therefore be not high<g ref="char:EOLhyphen"/>minded but feare, for this is no new thing to you, for the Lord said by <hi>Moses,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 32.21.</note> they have moved me to jealousie with that which is not good, they have provoked me to anger with their vanities: And I will move them to jealousie with those who are not a people, I will provoke them to anger with a foolish Nation.</p>
+            <p>This ye have caused the Lord to doe through your provoca<g ref="char:EOLhyphen"/>tions, who alwayes rebelled against him, and caused him to turne to the Gentiles with salvation, but though ye be provo<g ref="char:EOLhyphen"/>ked to anger and jealousie by a people that were not, and by a foolish Nation: yet be not angry but turn to him that smi<g ref="char:EOLhyphen"/>teth, whose hand of dear love is holden forth unto you, who waites to be gracious unto you, who is God over all, and rich unto all; that so in your stumbling ye may not utterly fall, but that rather through your fall, salvation is come to the Gentiles, to provoke you to jealousie.</p>
+            <p>And now that your stumbling hath been the riches of the world, and your diminishing the riches of the Gentiles, how much more will your gathering be joy, and life, and rejoycing
+<pb n="33" facs="tcp:168497:18"/>to the Gentiles, which writes this unto you, which ye shall eternally witnesse to be an everlasting testimony of the love of God to you.</p>
+            <p>Therefore start not aside, nor cast not this behinde you, as ye have done all the gracious tenders of the Lords love for<g ref="char:EOLhyphen"/>merly: But come to this light that is in you, which will lead you into the paths of peace, and into the Covenant where the gathering is, that so you may receive the promise of the Lord to you, who hath said; The sons of strangers shall build up thy walls, and their Kings shall minister unto thee; and thou shalt suck the milk of the Gentiles, and shalt suck the breasts of Kings, and thou shalt know that I the Lord am thy Savi<g ref="char:EOLhyphen"/>our, and thy Redeemer the mighty one of <hi>Jacob.</hi>
+               <note place="margin">
+                  <hi>Isa</hi> 66.</note>
+            </p>
+            <p>Now if ye will know your Redeemer, and your Saviour, the mighty one of <hi>Jacob,</hi> turne to the light, joyne your mindes in<g ref="char:EOLhyphen"/>to the light, which is within you, and there will you see your Saviour and Redeemer, and there shall ye suck the milk of the Gentiles, and there shall you receive your King. Thus saith the Lord God, behold I will lift up my hand unto the Gentiles, and set up my standard to the people, and they shall bring thy sons in their armes, and thy daughters shall be carried upon their shoulders, and Kings shall be thy nursing fathers, and their Queens thy nursing mothers, they shall bow down to thee with their faces towards the earth, and lick up the dust of thy feet.</p>
+            <p>See here now if this be not fulfilled: Is there not even a bowing down unto thee in this loving invitation, and even a licking of the dust of thy feet with their faces towards the earth, who have the standard of the Lord set amongst us, which is for the gathering of all nations together, that we might bring thy sons in our armes, and thy daughters upon our shoulders, our soules desire is that you might all be gathered, and come into the Covenant of light, and love, and partake with us of the everlasting riches and inheritance that never fades away.</p>
+            <p>Therefore arise and shine, for thy light is come, and the Gentiles are come to thy light, and Kings to the brightnesse of thy rising, thy sons shall come from farre, and thy daugh<g ref="char:EOLhyphen"/>ters
+<pb n="34" facs="tcp:168497:19"/>shall be nursed at thy side, then shalt thou see, and flow together, and thy heart shall feare, and be enlarged, because of the abundance of the Sea, that shall be converted unto thee, the forces of the Gentiles shall come to thee.</p>
+            <p>This we desire to see fulfilled, and this we waite for, that e<g ref="char:EOLhyphen"/>ven the fulnesse might come in, for <hi>Shiloh</hi> is come, unto whom the gathering is, though blindnesse is happened unto <hi>Israel:</hi> But the Redeemer is come to <hi>Zion,</hi> and unto them that turn from transgression in <hi>Jacob.</hi>
+            </p>
+            <p>So as you turne from your transgression, this ye will see, and witnesse. And so whether you hear or forbeare, this shall be an eternall testimony for the Lord, for ever:</p>
+            <closer>
+               <signed>M. F.</signed>
+            </closer>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </trailer>
+         </div>
+         <div type="queries">
+            <pb n="35" facs="tcp:168497:19"/>
+            <head>Certaine Queries, To the teachers and Rabbi's among the <hi>Jewes.</hi>
+            </head>
+            <p n="1">1. <hi>What the way of holinesse is,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 35.</note>
+               <hi>and where it is, where the uncleane cannot passe?</hi>
+            </p>
+            <p n="2">2. <hi>What the way in the Wildernesse is,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 43.</note>
+               <hi>and the Rivers in the desart?</hi>
+            </p>
+            <p n="3">3. <hi>What the voice of him is, that cryeth in the Wildernesse,</hi>
+               <note place="margin">
+                  <hi>Isa</hi> 40.</note>
+               <hi>prepare ye the way of the Lord, make straite in the desart, a high way for our God, and what this way is?</hi>
+            </p>
+            <p n="4">4.
+<note place="margin">
+                  <hi>Isa.</hi> 30.</note>
+               <hi>What the word is that is heard be<g ref="char:EOLhyphen"/>hinde, saying; This is the way walke in it?</hi>
+            </p>
+            <p n="5">5. <hi>What the tongue of the learned is,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 50.</note>
+               <hi>that speakes a word in season to him that is wea<g ref="char:EOLhyphen"/>ry?</hi>
+            </p>
+            <p n="6">6. <hi>What that wisdome is which cryes,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 8.</note>
+               <hi>and understanding that puts forth her voice, to the sons of men?</hi>
+            </p>
+            <p n="7">7. <hi>What that was in</hi> Solomon,
+<note place="margin">
+                  <hi>ver.</hi> 15.</note>
+               <hi>which said, by me Kings rule, and Princes decree justice, even all the Judges of the Earth?</hi>
+            </p>
+            <p n="8">8. <hi>What was that in</hi> Solomon, <hi>which was
+<pb n="36" facs="tcp:168497:20"/>set up from everlasting,</hi>
+               <note place="margin">
+                  <hi>ver.</hi> 23.</note>
+               <hi>from the beginning ere ever the Earth was?</hi>
+            </p>
+            <p n="9">9. <hi>What was that in</hi> David, <hi>which said, Yet have I set my King upon my holy hill of Zion:</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 2</note>
+               <hi>The Lord hath said unto me, Thou art my Son; this day have I begotten thee?</hi>
+            </p>
+            <p n="10">10. <hi>What was that in</hi> Job, <hi>which said, I will teach you by the hand of God:</hi>
+               <note place="margin">
+                  <hi>Job.</hi> 27.</note>
+               <hi>that which is with the Almighty will I not con<g ref="char:EOLhyphen"/>ceale?</hi>
+            </p>
+            <p n="11">11.
+<note place="margin">
+                  <hi>Job</hi> 28.</note>
+               <hi>What that path is, which</hi> Job <hi>speakes of: And that wisdome, and place of under<g ref="char:EOLhyphen"/>standing, which is hid from all eyes living.</hi>
+            </p>
+            <p n="12">12.
+<note place="margin">
+                  <hi>Deut.</hi> 33.</note>
+               <hi>What the fountaine of</hi> Jacob <hi>is, which</hi> Moses <hi>speakes of?</hi>
+            </p>
+            <p n="13">13. <hi>What that fountaine is, which shall come forth of the house of the Lord?</hi>
+               <note place="margin">
+                  <hi>Joel.</hi> 3.</note>
+            </p>
+            <p n="14">14. <hi>VVhat that fountaine is which is ope<g ref="char:EOLhyphen"/>ned to the house of</hi> David,
+<note place="margin">
+                  <hi>Zach.</hi> 13.</note>
+               <hi>and to the inhabi<g ref="char:EOLhyphen"/>tants of</hi> Jerusalem?</p>
+            <p n="15">15.
+<note place="margin">
+                  <hi>Zach.</hi> 14.</note>
+               <hi>VVhat the living waters is that goes from</hi> Jerusalem?</p>
+            <p n="16">16. <hi>VVhat those rivers and fountaines are,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 51.</note>
+               <hi>which the Lord will open in the high places, and in the midst of the valleyes: when
+<pb n="37" facs="tcp:168497:20"/>he makes the wildernesse a pool, and dry land springs of water?</hi>
+            </p>
+            <p n="17">17. <hi>How it is,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 12.</note>
+               <hi>and by what that waters are drawn forth out of the wells of salva<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p n="18">18. <hi>VVhat that fountaine of gardens,</hi>
+               <note place="margin">
+                  <hi>Cant.</hi> 4.</note>
+               <hi>and well of living waters, and streams from Leba<g ref="char:EOLhyphen"/>non is, which</hi> Solomon <hi>speaks of?</hi>
+            </p>
+            <p n="19">19. <hi>Where doth the ancient of dayes sit,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 7.</note>
+               <hi>when he eomes, when judgment is given to the Saints of the most high?</hi>
+            </p>
+            <p n="20">20. <hi>VVhat the Kingdome and dominion,</hi>
+               <note place="margin">
+                  <hi>ver.</hi> 2.7.</note>
+               <hi>which is given to the Saints of the most high, is, and where it is, whose Kingdome is an e<g ref="char:EOLhyphen"/>verlasting Kingdome, and all dominions shall serve and obey him?</hi>
+            </p>
+            <p>Answer these Queries, according to the Law and Prophets.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
